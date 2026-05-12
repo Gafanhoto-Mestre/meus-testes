@@ -1,0 +1,11 @@
+@charset "UFT-8";
+ 
+body{
+    background-color: black;
+    background-image: url(paisagem.jpeg);
+    background-position: left center;
+}
+
+h1{
+    text-align: left;
+}
